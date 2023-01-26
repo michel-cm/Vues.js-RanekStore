@@ -14,7 +14,6 @@
       value="buscar"
       @click.prevent="buscarProdutos"
     />
-    {{ busca }}
   </form>
 </template>
 
