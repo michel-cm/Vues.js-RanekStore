@@ -7,7 +7,13 @@
     <label for="senha">Senha</label>
     <input type="password" id="senha" name="senha" v-model="senha" />
     <label for="cep">Cep</label>
-    <input type="text" id="cep" name="cep" v-model="cep" @keyup="prencherCep" />
+    <input
+      type="text"
+      id="cep"
+      name="cep"
+      v-model="cep"
+      @keyup="preencherCep"
+    />
     <label for="rua">Rua</label>
     <input type="text" id="rua" name="rua" v-model="rua" />
     <label for="numero">Numero</label>
