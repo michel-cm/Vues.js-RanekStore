@@ -1,4 +1,50 @@
 {
+  "transacao": [
+    {
+      "comprador_id": "andre@origamid.com",
+      "vendedor_id": "andre@origamid.com",
+      "produto": {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "andre@origamid.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um novo smartphone.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "12345678",
+        "rua": "Rua Ali Perto",
+        "numero": "25",
+        "bairro": "",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "teste@gmail.com",
+      "vendedor_id": "andre@origamid.com",
+      "produto": {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "andre@origamid.com",
+        "preco": "1399",
+        "vendido": "false",
+        "descricao": "Esse é um novo tablet.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "22020-001",
+        "rua": "Avenida Nossa Senhora de Copacabana",
+        "numero": "99",
+        "bairro": "Copacabana",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "id": 2
+    }
+  ],
   "usuario": [
     {
       "id": "andre@origamid.com",
@@ -22,6 +68,18 @@
       "bairro": "Ortocaldas",
       "cidade": "Poço Fundo",
       "estado": "MG"
+    },
+    {
+      "id": "teste@gmail.com",
+      "nome": "Teste teste",
+      "email": "teste@gmail.com",
+      "senha": "123",
+      "cep": "22020-001",
+      "rua": "Avenida Nossa Senhora de Copacabana",
+      "numero": "99",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ"
     }
   ],
   "produto": [
