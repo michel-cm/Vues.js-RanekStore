@@ -10,7 +10,6 @@
         </ProdutoItem>
       </li>
     </transition-group>
-    {{ usuario_produtos }}
   </section>
 </template>
 <script>
@@ -46,5 +45,16 @@ export default {
 <style scoped>
 h2 {
   margin-bottom: 20px;
+}
+
+.list-enter,
+.list-leave-to {
+  opacity: 0;
+  transform: translate3d(20px, 0, 0);
+}
+
+.list-enter-active,
+.list-leave-active {
+  transition: all 0.3s;
 }
 </style>

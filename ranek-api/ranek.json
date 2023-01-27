@@ -10,6 +10,18 @@
       "numero": "25",
       "estado": "RJ",
       "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "michelcm13@gmail.com",
+      "nome": "Michel Corrêa",
+      "email": "michelcm13@gmail.com",
+      "senha": "123",
+      "cep": "37757000",
+      "rua": "a",
+      "numero": "22",
+      "bairro": "b",
+      "cidade": "Poço Fundo",
+      "estado": "MG"
     }
   ],
   "produto": [
@@ -228,6 +240,43 @@
       "vendido": "false",
       "descricao": "Esse é um novo tablet.",
       "fotos": null
+    },
+    {
+      "nome": "Cadeira",
+      "preco": "220",
+      "descricao": "",
+      "fotos": null,
+      "id": "LBoBuBv"
+    },
+    {
+      "nome": "cadera",
+      "preco": "1212",
+      "descricao": "dsadsad",
+      "fotos": null,
+      "id": "SGJ48KX"
+    },
+    {
+      "nome": "cadera",
+      "preco": "12121",
+      "descricao": "dsadasdsad",
+      "fotos": null,
+      "id": "Tf9ZWPc"
+    },
+    {
+      "nome": "teste",
+      "preco": "2",
+      "descricao": "aaa",
+      "fotos": null,
+      "usuario_id": "andre@origamid.com",
+      "id": "y6f8K_U"
+    },
+    {
+      "nome": "dsadsa",
+      "preco": "3232",
+      "descricao": "dsadsa",
+      "fotos": null,
+      "usuario_id": "michelcm13@gmail.com",
+      "id": "WdMXKe4"
     }
   ]
 }
