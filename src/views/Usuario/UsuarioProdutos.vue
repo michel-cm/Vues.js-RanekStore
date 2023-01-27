@@ -22,7 +22,7 @@ import { api } from "@/services.js";
 import { mapState, mapActions } from "vuex";
 
 export default {
-  nome: "UsuarioProdutos",
+  name: "UsuarioProdutos",
   components: {
     ProdutoAdicionar,
     ProdutoItem,

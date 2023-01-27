@@ -20,7 +20,7 @@
 </template>
 <script>
 export default {
-  nome: "ProdutoItem",
+  name: "ProdutoItem",
   props: ["produto"],
 };
 </script>

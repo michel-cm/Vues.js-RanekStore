@@ -20,7 +20,7 @@
 </template>
 <script>
 export default {
-  nome: "UsuarioView",
+  name: "UsuarioView",
   methods: {
     deslogar() {
       this.$store.dispatch("deslogarUsuario");

@@ -3,6 +3,6 @@
 </template>
 <script>
 export default {
-  nome: "UsuarioVendas",
+  name: "UsuarioVendas",
 };
 </script>

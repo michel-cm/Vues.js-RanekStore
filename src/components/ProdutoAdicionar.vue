@@ -25,7 +25,7 @@
 import { api } from "@/services.js";
 
 export default {
-  nome: "ProdutoAdicionar",
+  name: "ProdutoAdicionar",
   data() {
     return {
       produto: {

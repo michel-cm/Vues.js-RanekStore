@@ -13,13 +13,13 @@
     },
     {
       "id": "michelcm13@gmail.com",
-      "nome": "Michel Corrêa",
+      "nome": "Michel Corrêa Martins",
       "email": "michelcm13@gmail.com",
       "senha": "123",
       "cep": "37757000",
-      "rua": "a",
-      "numero": "22",
-      "bairro": "b",
+      "rua": "Antonio Carvalho da Silva",
+      "numero": "90",
+      "bairro": "Ortocaldas",
       "cidade": "Poço Fundo",
       "estado": "MG"
     }
@@ -260,14 +260,6 @@
       "fotos": null,
       "usuario_id": "andre@origamid.com",
       "id": "y6f8K_U"
-    },
-    {
-      "nome": "dsadsa",
-      "preco": "3232",
-      "descricao": "dsadsa",
-      "fotos": null,
-      "usuario_id": "michelcm13@gmail.com",
-      "id": "WdMXKe4"
     }
   ]
 }
